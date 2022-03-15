@@ -1,0 +1,13 @@
+test-props:
+  registries:
+    test-registry:
+      user-id: 'test-user-id'
+      protocol-version: '66.0'
+      url: 'https://dot.com'
+      authorization-token: 'token'
+      client:
+        name: 'client-name'
+        password: 'secret$$$'
+      service:
+        name: 'service-name'
+        password: 'secret$$$'
